@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ನಿಮ್ಮ ಗುರು</string>
+
+    <string name="tagline">
+        ಸಂಪರ್ಕ. ಕಲಿಯಿರಿ. ಬೆಳೆಯಿರಿ.
+    </string>
+
+    <string name="i_am_guru">
+        🧑‍🏫 ನಾನು ಗುರು
+    </string>
+
+    <string name="i_am_student">
+        📚 ನಾನು ವಿದ್ಯಾರ್ಥಿ
+    </string>
+
+    <string name="nav_home">🏠 ಮನೆ</string>
+
+    <string name="nav_search">🔍 ಹುಡುಕಿ</string>
+
+    <string name="nav_calendar">
+        📅 ತರಗತಿಗಳು
+    </string>
+
+    <string name="nav_wall">
+        🏆 ಗೌರವ ಗೋಡೆ
+    </string>
+
+    <string name="search_hint">
+        🔍 ಕೌಶಲ್ಯ ಅಥವಾ ಊರಿನಿಂದ ಹುಡುಕಿ
+    </string>
+
+    <string name="save_profile">
+        💾 ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ
+    </string>
+
+    <string name="free_hours_hint">
+        🕐 ಉದಾ: ಶನಿವಾರ ಬೆಳಗ್ಗೆ 10 ರಿಂದ 12
+    </string>
+
+    <string name="wall_of_fame">
+        🏆 ಗೌರವ ಗೋಡೆ
+    </string>
+
+    <string name="upcoming_sessions">
+        📅 ಮುಂಬರುವ ತರಗತಿಗಳು
+    </string>
+
+    <string name="no_gurus_found">
+        😔 ಯಾರೂ ಸಿಗಲಿಲ್ಲ. ಬೇರೆ ಫಿಲ್ಟರ್ ಬಳಸಿ.
+    </string>
+
+    <string name="post_thank_you">
+        🙏 ಧನ್ಯವಾದ ಹೇಳಿ
+    </string>
+
+    <string name="login">🔐 ಲಾಗಿನ್</string>
+
+    <string name="register">
+        📝 ನೋಂದಾಯಿಸಿ
+    </string>
+
+    <string name="email_hint">
+        📧 ಇಮೇಲ್ ವಿಳಾಸ
+    </string>
+
+    <string name="password_hint">
+        🔑 ಪಾಸ್‌ವರ್ಡ್ (ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳು)
+    </string>
+
+    <string name="forgot_password">
+        ❓ ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರಾ?
+    </string>
+
+    <string name="create_account">
+        ✨ ಖಾತೆ ತೆರೆಯಿರಿ
+    </string>
+
+    <string name="sign_out">
+        🚪 ಹೊರಗೆ ಹೋಗಿ
+    </string>
+
+    <string name="add_session">
+        ➕ ತರಗತಿ ಸೇರಿಸಿ
+    </string>
+
+    <string name="generate_bio">
+        ✨ ಪರಿಚಯ ತುಂಬಿ
+    </string>
+
+    <string name="full_name_hint">
+        👤 ಪೂರ್ಣ ಹೆಸರು
+    </string>
+
+    <string name="village_hint">
+        📍 ಗ್ರಾಮ / ಪ್ರದೇಶ
+    </string>
+
+    <string name="bio_hint">
+        📝 ನನ್ನ ಬಗ್ಗೆ
+    </string>
+
+</resources>

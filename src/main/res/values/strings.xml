@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nimma Guru</string>
+
+    <string name="tagline">
+        Connect. Learn. Grow.
+    </string>
+
+    <string name="i_am_guru">
+        🧑‍🏫 I am a Guru
+    </string>
+
+    <string name="i_am_student">
+        📚 I am a Student
+    </string>
+
+    <string name="nav_home">🏠 Home</string>
+
+    <string name="nav_search">🔍 Search</string>
+
+    <string name="nav_calendar">📅 Calendar</string>
+
+    <string name="nav_wall">🏆 Wall of Fame</string>
+
+    <string name="search_hint">
+        🔍 Search by skill or village
+    </string>
+
+    <string name="save_profile">
+        💾 Save Profile
+    </string>
+
+    <string name="free_hours_hint">
+        🕐 e.g. Saturdays 10am-12pm
+    </string>
+
+    <string name="wall_of_fame">
+        🏆 Wall of Fame
+    </string>
+
+    <string name="upcoming_sessions">
+        📅 Upcoming Sessions
+    </string>
+
+    <string name="no_gurus_found">
+        😔 No Gurus found. Try a different filter.
+    </string>
+
+    <string name="post_thank_you">
+        🙏 Post Thank You
+    </string>
+
+    <string name="login">🔐 Login</string>
+
+    <string name="register">📝 Register</string>
+
+    <string name="email_hint">
+        📧 Email Address
+    </string>
+
+    <string name="password_hint">
+        🔑 Password (minimum 6 characters)
+    </string>
+
+    <string name="forgot_password">
+        ❓ Forgot Password?
+    </string>
+
+    <string name="create_account">
+        ✨ Create Account
+    </string>
+
+    <string name="sign_out">
+        🚪 Sign Out
+    </string>
+
+    <string name="add_session">
+        ➕ Add Session
+    </string>
+
+    <string name="generate_bio">
+        ✨ Auto-fill Bio
+    </string>
+
+    <string name="full_name_hint">
+        👤 Full Name
+    </string>
+
+    <string name="village_hint">
+        📍 Village / Area
+    </string>
+
+    <string name="bio_hint">
+        📝 About me
+    </string>
+
+</resources>
